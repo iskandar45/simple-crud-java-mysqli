@@ -3,7 +3,7 @@
 ```
 create database Mahasiswa
 ```
-- export file **mhs.sql** to your database
+- export file **mhs.sql** or **mahasiswa.sql** to your database
 - open project in netbeans IDE
 - enjoy your prpogram :)
 ## Thank to malasngoding.com
